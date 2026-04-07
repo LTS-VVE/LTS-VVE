@@ -12,8 +12,8 @@ I am **Daniel**, a software developer with a diverse skill set spanning frontend
 
 ## Contact
 
-- Website: [ltsvve.net](https://ltsvve.net)  
-- Email: daniel@ltsvve.net  
+- Website: [lts-vve.net](https://lts-vve.net)  
+- Email: daniel@lts-vve.net  
 
 > **WARNING**
 > Responses may be delayed. Contact is best suited for professional inquiries or collaboration.

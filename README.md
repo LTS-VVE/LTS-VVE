@@ -3,6 +3,8 @@
 > [!CAUTION]
 > This is the personal GitHub profile of Daniel. Contents reflect the author's professional skills, interests, and experiments. Read responsibly. No warranties expressed or implied.
 
+PLEASE SUPPORT ME ON MY FIVER!!!!
+https://www.fiverr.com/s/xXzvaPB
 ---
 ## About Me
 
@@ -13,7 +15,7 @@ I am **Daniel**, a software developer with a diverse skill set spanning frontend
 ## Contact
 
 - Website: [lts-vve.net](https://lts-vve.net)  
-- Email: daniel@lts-vve.net  
+- Email: danielaequality@gmail.com
 
 > **WARNING**
 > Responses may be delayed. Contact is best suited for professional inquiries or collaboration.
